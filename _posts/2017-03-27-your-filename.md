@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Hi there
 ---
 ## A New Post
@@ -8,4 +8,3 @@ title: Hi there
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 Pretty cool that this works. ![IMG_4925.JPG]({{site.baseurl}}/media/IMG_4925.JPG)
-
