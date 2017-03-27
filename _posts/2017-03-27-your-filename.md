@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+title: Hi there
 ---
 ## A New Post
 
