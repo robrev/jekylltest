@@ -32,3 +32,30 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://spy-chipmunk-50760.netlify.com/'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: 'layout'
+        field:
+          element: 'hidden'
+          value: 'post'
+      - name: 'categories'
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose tags"
+          options:
+            - name: "Apples"
+              value: 'apples'
+            - name: 'Bananas'
+              value: 'bananas'
+            
