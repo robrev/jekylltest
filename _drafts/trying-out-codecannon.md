@@ -1,6 +1,6 @@
 ---
 layout:
-published: false
+published: true
 ---
 
 
