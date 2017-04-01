@@ -1,4 +1,7 @@
 ---
-layout: post
-published: true
+layout:
+published: false
 ---
+
+
+Pretty interesting stuff. This CMS looks like it could be fairly powerful.
